@@ -9,7 +9,7 @@ Prerequisites for running Clavis:
 - Percona MySQL Server 5.6 (InnoDB)
 - Solr Server 5.x
 - Java Bridge Server for PHP
-- JasperLibs installend under Java Bridge CLASSPATH (For reporting)
+- JasperLibs installed under Java Bridge CLASSPATH (For reporting)
 - PHP 5.5
 - Apache 2.4
 - MemCache (Session Storage)
