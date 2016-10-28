@@ -1,7 +1,7 @@
 # ClavisNG sources packages repository
 Clavis NG Sources
 This is the repository where are published Comperio Web based LMS ClavisNG sources.
-For any information please contact info@comperio.
+For any information please contact info@comperio.it
 
 All sources of Clavis are released as a AGPLv3 .
 Prerequisites for running Clavis:
