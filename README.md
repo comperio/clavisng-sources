@@ -25,5 +25,13 @@ PHP Extensions:
 - yaz
 - xsl
 - apcu
+- curl
+- opcache
+- gd
+- soap
+- xsl
+- mb_strings
+- xml
+
 
 
