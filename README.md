@@ -34,4 +34,10 @@ PHP Extensions:
 - xml
 
 
-
+# DiscoveryNG sources packages repository
+Discovery NG Sources
+This is the repository where are published Comperio discovery sources.
+Discovery is based on Silverstripe CMS version 2.4, follow silverstripe documentatio to check how to install.
+DNG require php 7.1
+For any information please contact info@comperio.it
+Sources are in 2 separate files and liquens module (the core of Discovery NG) is packed in another file to make it uploadable in files smaller than 25MB
